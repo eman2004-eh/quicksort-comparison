@@ -1,0 +1,6 @@
+*.o
+quicksort_sequential
+quicksort_multithreaded
+quicksort_openmp
+quicksort_mpi
+quicksort_all_modes
